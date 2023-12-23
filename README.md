@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/C++-00599C?logo=c&logoColor=fff&labelColor=555)
+
 <!--
 **NoJStein/NoJStein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
